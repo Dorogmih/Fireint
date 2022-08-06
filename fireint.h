@@ -7,8 +7,8 @@
 #include <algorithm>
 
 #define str std::string
-#define input std::cin
-#define output std::cout
+#define input std::cin >>
+#define output std::cout <<
 
 using ll = long long;
 using i3t = int32_t;
